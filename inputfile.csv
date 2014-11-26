@@ -1,0 +1,2 @@
+vmName,purpose,folder,datastore,host
+VM1,Prod,ProdVMs,DS1,ESXi2
