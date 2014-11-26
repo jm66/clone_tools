@@ -9,7 +9,7 @@ usage: clone_tools.py [-h] -s SERVER -u USERNAME [-p PASSWORD] -m VMNAME
                           [-v] [-d] [-l LOGFILE] [-V]
                           {single,bulk} ...
 
-Deploy a template into multiple VM's or clone a single VM
+Deploy a template into multiple VMs or clone a single VM
 
 positional arguments:
   {single,bulk}         commands
